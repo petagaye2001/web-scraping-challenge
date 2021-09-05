@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 26,
+   "execution_count": 1,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -17,7 +17,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 27,
+   "execution_count": 2,
    "metadata": {},
    "outputs": [
     {
@@ -35,7 +35,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 28,
+   "execution_count": 3,
    "metadata": {},
    "outputs": [
     {
@@ -59,7 +59,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 29,
+   "execution_count": 6,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -70,7 +70,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 30,
+   "execution_count": 7,
    "metadata": {},
    "outputs": [
     {
@@ -102,26 +102,26 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 31,
+   "execution_count": 8,
    "metadata": {},
    "outputs": [
     {
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "<html class=\"no-flash cookies geolocation svg picture canvas video webgl srcdoc supports hiddenscroll no-touchevents fullscreen flexbox cssanimations flexboxlegacy no-flexboxtweener csstransforms csstransforms3d csstransitions preserve3d -webkit-\" lang=\"en\" style=\"--vh:664px;\" xml:lang=\"en\" xmlns=\"http://www.w3.org/1999/xhtml\">\n",
+      "<html class=\"no-flash cookies geolocation svg picture canvas video webgl srcdoc supports hiddenscroll no-touchevents fullscreen flexbox cssanimations flexboxlegacy no-flexboxtweener csstransforms csstransforms3d csstransitions preserve3d -webkit-\" lang=\"en\" style=\"--vh:663px;\" xml:lang=\"en\" xmlns=\"http://www.w3.org/1999/xhtml\">\n",
       " <head>\n",
+      "  <script src=\"https://api-public.addthis.com/url/shares.json?url=http%3A%2F%2Fmars.nasa.gov%2Fnews%2F&amp;callback=_ate.cbs.rcb_jyv80\" type=\"text/javascript\">\n",
+      "  </script>\n",
+      "  <script src=\"//www.reddit.com/api/info.json?url=http%3A%2F%2Fmars.nasa.gov%2Fnews%2F&amp;jsonp=_ate.cbs.rcb_b7dq0\" type=\"text/javascript\">\n",
+      "  </script>\n",
+      "  <script src=\"https://api-public.addthis.com/url/shares.json?url=https%3A%2F%2Fmars.nasa.gov%2Fnews%2F&amp;callback=_ate.cbs.rcb_8m0c0\" type=\"text/javascript\">\n",
+      "  </script>\n",
+      "  <script src=\"//www.reddit.com/api/info.json?url=https%3A%2F%2Fmars.nasa.gov%2Fnews%2F&amp;jsonp=_ate.cbs.rcb_9u7v0\" type=\"text/javascript\">\n",
+      "  </script>\n",
       "  <script async=\"\" src=\"https://script.crazyegg.com/pages/versioned/common-scripts/11.1.331.js\" type=\"text/javascript\">\n",
       "  </script>\n",
-      "  <script src=\"https://api-public.addthis.com/url/shares.json?url=http%3A%2F%2Fmars.nasa.gov%2Fnews%2F&amp;callback=_ate.cbs.rcb_8tva0\" type=\"text/javascript\">\n",
-      "  </script>\n",
-      "  <script src=\"//www.reddit.com/api/info.json?url=http%3A%2F%2Fmars.nasa.gov%2Fnews%2F&amp;jsonp=_ate.cbs.rcb_l86w0\" type=\"text/javascript\">\n",
-      "  </script>\n",
-      "  <script src=\"https://api-public.addthis.com/url/shares.json?url=https%3A%2F%2Fmars.nasa.gov%2Fnews%2F&amp;callback=_ate.cbs.rcb_d8kn0\" type=\"text/javascript\">\n",
-      "  </script>\n",
-      "  <script src=\"//www.reddit.com/api/info.json?url=https%3A%2F%2Fmars.nasa.gov%2Fnews%2F&amp;jsonp=_ate.cbs.rcb_4xbp0\" type=\"text/javascript\">\n",
-      "  </script>\n",
-      "  <script src=\"https://m.addthis.com/live/red_lojson/300lo.json?si=6134386ebf047a11&amp;bkl=0&amp;bl=1&amp;pdt=779&amp;sid=6134386ebf047a11&amp;pub=ra-5a690e4c1320e328&amp;rev=v8.28.8-wp&amp;ln=en&amp;pc=men&amp;cb=0&amp;ab=-&amp;dp=mars.nasa.gov&amp;fp=news%2F&amp;fr=&amp;of=1&amp;pd=0&amp;irt=0&amp;vcl=0&amp;md=0&amp;ct=1&amp;tct=0&amp;abt=0&amp;cdn=0&amp;pi=1&amp;rb=0&amp;gen=100&amp;chr=UTF-8&amp;mk=Mars%2Cmissions%2CNASA%2Crover%2CCuriosity%2COpportunity%2CInSight%2CMars%20Reconnaissance%20Orbiter%2Cfacts&amp;colc=1630812270600&amp;jsl=1&amp;skipb=1&amp;callback=addthis.cbs.jsonp__61731517271683670\" type=\"text/javascript\">\n",
+      "  <script src=\"https://m.addthis.com/live/red_lojson/300lo.json?si=61343d5d9745233d&amp;bkl=0&amp;bl=1&amp;pdt=29&amp;sid=61343d5d9745233d&amp;pub=ra-5a690e4c1320e328&amp;rev=v8.28.8-wp&amp;ln=en&amp;pc=men&amp;cb=0&amp;ab=-&amp;dp=mars.nasa.gov&amp;fp=news%2F&amp;fr=&amp;of=2&amp;pd=0&amp;irt=0&amp;vcl=0&amp;md=0&amp;ct=1&amp;tct=0&amp;abt=0&amp;cdn=0&amp;pi=1&amp;rb=0&amp;gen=100&amp;chr=UTF-8&amp;mk=Mars%2Cmissions%2CNASA%2Crover%2CCuriosity%2COpportunity%2CInSight%2CMars%20Reconnaissance%20Orbiter%2Cfacts&amp;colc=1630813533705&amp;jsl=1&amp;skipb=1&amp;callback=addthis.cbs.jsonp__466469132727777460\" type=\"text/javascript\">\n",
       "  </script>\n",
       "  <script src=\"https://v1.addthisedge.com/live/boost/ra-5a690e4c1320e328/_ate.track.config_resp\" type=\"text/javascript\">\n",
       "  </script>\n",
@@ -142,7 +142,7 @@
       "  <link color=\"#e48b55\" href=\"/safari-pinned-tab.svg\" rel=\"mask-icon\"/>\n",
       "  <meta content=\"#000000\" name=\"theme-color\"/>\n",
       "  <meta content=\"authenticity_token\" name=\"csrf-param\"/>\n",
-      "  <meta content=\"8qFqc3o0Lk6h4vONwu6++dvkdXwNlK+S2pvFBB8OtFl/J+YyTxtEAm0gPUBgywFgwMnELMv4p1JPclZsvKgYow==\" name=\"csrf-token\"/>\n",
+      "  <meta content=\"bsbmLA44QPP5tvfDzNx+q0zveI8F0qZNnM69FJopQSKitCurAoOyAErClSGf+llZXAV0mm13nXQq6E1uokX13g==\" name=\"csrf-token\"/>\n",
       "  <title>\n",
       "   News  – NASA’s Mars Exploration Program\n",
       "  </title>\n",
@@ -3531,7 +3531,7 @@
       "                <img alt=\"More\" src=\"/assets/overlay-arrow.png\"/>\n",
       "               </div>\n",
       "              </div>\n",
-      "              <img alt=\"NASA's Perseverance Team Assessing First Mars Sampling Attempt\" class=\"img-lazy\" src=\"/system/news_items/list_view_images/9007_PIA24795_thumbnail.jpg?1630812270544\" style=\"opacity: 1;\"/>\n",
+      "              <img alt=\"NASA's Perseverance Team Assessing First Mars Sampling Attempt\" class=\"img-lazy\" src=\"/system/news_items/list_view_images/9007_PIA24795_thumbnail.jpg?1630813533658\" style=\"opacity: 0.843975;\"/>\n",
       "             </a>\n",
       "            </div>\n",
       "            <div class=\"content_title\">\n",
@@ -3551,7 +3551,7 @@
       "                <img alt=\"More\" src=\"/assets/overlay-arrow.png\"/>\n",
       "               </div>\n",
       "              </div>\n",
-      "              <img alt=\"NASA Perseverance Mars Rover to Acquire First Sample\" class=\"img-lazy\" src=\"/system/news_items/list_view_images/8995_PIA24746-320x240.jpg?1630812270544\" style=\"opacity: 1;\"/>\n",
+      "              <img alt=\"NASA Perseverance Mars Rover to Acquire First Sample\" class=\"img-lazy\" src=\"/system/news_items/list_view_images/8995_PIA24746-320x240.jpg?1630813533658\" style=\"opacity: 0.557775;\"/>\n",
       "             </a>\n",
       "            </div>\n",
       "            <div class=\"content_title\">\n",
@@ -3571,7 +3571,7 @@
       "                <img alt=\"More\" src=\"/assets/overlay-arrow.png\"/>\n",
       "               </div>\n",
       "              </div>\n",
-      "              <img alt=\"Study Looks More Closely at Mars' Underground Water Signals\" class=\"img-lazy\" src=\"/system/news_items/list_view_images/8972_cappucino-swirls-thumbnail.jpg?1630812270544\" style=\"opacity: 1;\"/>\n",
+      "              <img alt=\"Study Looks More Closely at Mars' Underground Water Signals\" class=\"img-lazy\" src=\"/system/news_items/list_view_images/8972_cappucino-swirls-thumbnail.jpg?1630813533658\" style=\"opacity: 0.557775;\"/>\n",
       "             </a>\n",
       "            </div>\n",
       "            <div class=\"content_title\">\n",
@@ -3651,7 +3651,7 @@
       "                <img alt=\"More\" src=\"/assets/overlay-arrow.png\"/>\n",
       "               </div>\n",
       "              </div>\n",
-      "              <img alt=\"NASA's Perseverance Team Assessing First Mars Sampling Attempt\" class=\"img-lazy\" src=\"/system/news_items/list_view_images/9007_PIA24795_thumbnail.jpg?1630812270544\" style=\"opacity: 1;\"/>\n",
+      "              <img alt=\"NASA's Perseverance Team Assessing First Mars Sampling Attempt\" class=\"img-lazy\" src=\"/system/news_items/list_view_images/9007_PIA24795_thumbnail.jpg?1630813533659\" style=\"opacity: 0.3759;\"/>\n",
       "             </a>\n",
       "            </div>\n",
       "            <div class=\"content_title\">\n",
@@ -3671,7 +3671,7 @@
       "                <img alt=\"More\" src=\"/assets/overlay-arrow.png\"/>\n",
       "               </div>\n",
       "              </div>\n",
-      "              <img alt=\"NASA Perseverance Mars Rover to Acquire First Sample\" class=\"img-lazy\" src=\"/system/news_items/list_view_images/8995_PIA24746-320x240.jpg?1630812270544\" style=\"opacity: 1;\"/>\n",
+      "              <img alt=\"NASA Perseverance Mars Rover to Acquire First Sample\" class=\"img-lazy\" src=\"/system/news_items/list_view_images/8995_PIA24746-320x240.jpg?1630813533659\" style=\"opacity: 0.3759;\"/>\n",
       "             </a>\n",
       "            </div>\n",
       "            <div class=\"content_title\">\n",
@@ -3691,7 +3691,7 @@
       "                <img alt=\"More\" src=\"/assets/overlay-arrow.png\"/>\n",
       "               </div>\n",
       "              </div>\n",
-      "              <img alt=\"Study Looks More Closely at Mars' Underground Water Signals\" class=\"img-lazy\" src=\"/system/news_items/list_view_images/8972_cappucino-swirls-thumbnail.jpg?1630812270545\" style=\"opacity: 1;\"/>\n",
+      "              <img alt=\"Study Looks More Closely at Mars' Underground Water Signals\" class=\"img-lazy\" src=\"/system/news_items/list_view_images/8972_cappucino-swirls-thumbnail.jpg?1630813533659\" style=\"opacity: 0;\"/>\n",
       "             </a>\n",
       "            </div>\n",
       "            <div class=\"content_title\">\n",
@@ -3775,7 +3775,7 @@
       "       </div>\n",
       "      </section>\n",
       "      <section class=\"sitemap\">\n",
-      "       <div class=\"sitemap_directory\" id=\"sitemap_directory\" style=\"position: relative; height: 293.516px;\">\n",
+      "       <div class=\"sitemap_directory\" id=\"sitemap_directory\" style=\"position: relative; height: 339.516px;\">\n",
       "        <div class=\"sitemap_block\" style=\"position: absolute; left: 0px; top: 0px;\">\n",
       "         <div class=\"footer_sitemap_item\">\n",
       "          <h3 class=\"sitemap_title\">\n",
@@ -4055,18 +4055,18 @@
       "   </div>\n",
       "  </div>\n",
       "  <div id=\"_atssh\" style=\"visibility: hidden; height: 1px; width: 1px; position: absolute; top: -9999px; z-index: 100000;\">\n",
-      "   <iframe id=\"_atssh298\" src=\"https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.8450649476975698&amp;iit=1630812270595&amp;tmr=load%3D1630812270440%26core%3D1630812270478%26main%3D1630812270591%26ifr%3D1630812270598&amp;cb=0&amp;cdn=0&amp;md=0&amp;kw=Mars%2Cmissions%2CNASA%2Crover%2CCuriosity%2COpportunity%2CInSight%2CMars%20Reconnaissance%20Orbiter%2Cfacts&amp;ab=-&amp;dh=mars.nasa.gov&amp;dr=&amp;du=https%3A%2F%2Fmars.nasa.gov%2Fnews%2F&amp;href=https%3A%2F%2Fmars.nasa.gov%2Fnews%2F&amp;dt=News%20%20%E2%80%93%20NASA%E2%80%99s%20Mars%20Exploration%20Program&amp;dbg=0&amp;cap=tc%3D0%26ab%3D0&amp;inst=1&amp;jsl=1&amp;prod=undefined&amp;lng=en&amp;ogt=image%2Cupdated_time%2Ctype%3Darticle%2Curl%2Ctitle%2Cdescription%2Csite_name&amp;pc=men&amp;pub=ra-5a690e4c1320e328&amp;ssl=1&amp;sid=6134386ebf047a11&amp;srf=0.01&amp;ver=300&amp;xck=1&amp;xtr=0&amp;og=site_name%3DNASA%25E2%2580%2599s%2520Mars%2520Exploration%2520Program%26description%3DNASA%25E2%2580%2599s%2520real-time%2520portal%2520for%2520Mars%2520exploration%252C%2520featuring%2520the%2520latest%2520news%252C%2520images%252C%2520and%2520discoveries%2520from%2520the%2520Red%2520Planet.%26title%3DNews%2520%2520%25E2%2580%2593%2520NASA%25E2%2580%2599s%2520Mars%2520Exploration%2520Program%26url%3Dhttps%253A%252F%252Fmars.nasa.gov%252Fnews%26type%3Darticle%26updated_time%3D2017-09-22%252019%253A53%253A22%2520UTC%26image%3Dhttps%253A%252F%252Fmars.nasa.gov%252Fsystem%252Fsite_config_values%252Fmeta_share_images%252F1_mars-nasa-gov.jpg&amp;csi=undefined&amp;rev=v8.28.8-wp&amp;ct=1&amp;xld=1&amp;xd=1\" style=\"height: 1px; width: 1px; position: absolute; top: 0px; z-index: 100000; border: 0px; left: 0px;\" title=\"AddThis utility frame\">\n",
+      "   <iframe id=\"_atssh936\" src=\"https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.15069336595082006&amp;iit=1630813533701&amp;tmr=load%3D1630813533572%26core%3D1630813533611%26main%3D1630813533698%26ifr%3D1630813533704&amp;cb=0&amp;cdn=0&amp;md=0&amp;kw=Mars%2Cmissions%2CNASA%2Crover%2CCuriosity%2COpportunity%2CInSight%2CMars%20Reconnaissance%20Orbiter%2Cfacts&amp;ab=-&amp;dh=mars.nasa.gov&amp;dr=&amp;du=https%3A%2F%2Fmars.nasa.gov%2Fnews%2F&amp;href=https%3A%2F%2Fmars.nasa.gov%2Fnews%2F&amp;dt=News%20%20%E2%80%93%20NASA%E2%80%99s%20Mars%20Exploration%20Program&amp;dbg=0&amp;cap=tc%3D0%26ab%3D0&amp;inst=1&amp;jsl=1&amp;prod=undefined&amp;lng=en&amp;ogt=image%2Cupdated_time%2Ctype%3Darticle%2Curl%2Ctitle%2Cdescription%2Csite_name&amp;pc=men&amp;pub=ra-5a690e4c1320e328&amp;ssl=1&amp;sid=61343d5d9745233d&amp;srf=0.01&amp;ver=300&amp;xck=1&amp;xtr=0&amp;og=site_name%3DNASA%25E2%2580%2599s%2520Mars%2520Exploration%2520Program%26description%3DNASA%25E2%2580%2599s%2520real-time%2520portal%2520for%2520Mars%2520exploration%252C%2520featuring%2520the%2520latest%2520news%252C%2520images%252C%2520and%2520discoveries%2520from%2520the%2520Red%2520Planet.%26title%3DNews%2520%2520%25E2%2580%2593%2520NASA%25E2%2580%2599s%2520Mars%2520Exploration%2520Program%26url%3Dhttps%253A%252F%252Fmars.nasa.gov%252Fnews%26type%3Darticle%26updated_time%3D2017-09-22%252019%253A53%253A22%2520UTC%26image%3Dhttps%253A%252F%252Fmars.nasa.gov%252Fsystem%252Fsite_config_values%252Fmeta_share_images%252F1_mars-nasa-gov.jpg&amp;csi=undefined&amp;rev=v8.28.8-wp&amp;ct=1&amp;xld=1&amp;xd=1\" style=\"height: 1px; width: 1px; position: absolute; top: 0px; z-index: 100000; border: 0px; left: 0px;\" title=\"AddThis utility frame\">\n",
       "   </iframe>\n",
       "  </div>\n",
       "  <style id=\"service-icons-0\">\n",
       "  </style>\n",
       "  <script id=\"_fed_an_ua_tag\" src=\"https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA&amp;subagency=JPL-Mars-MEPJPL&amp;pua=UA-9453474-9,UA-118212757-11&amp;dclink=true&amp;sp=searchbox&amp;exts=tif,tiff,wav\" type=\"text/javascript\">\n",
       "  </script>\n",
-      "  <div aria-labelledby=\"at4-share-label\" class=\"addthis-smartlayers addthis-smartlayers-desktop\" role=\"region\">\n",
+      "  <div aria-labelledby=\"at4-share-label\" class=\"addthis-smartlayers at4-visually-hidden addthis-smartlayers-desktop\" role=\"region\">\n",
       "   <div id=\"at4-share-label\">\n",
       "    AddThis Sharing Sidebar\n",
       "   </div>\n",
-      "   <div class=\"at4-share addthis_32x32_style atss atss-left addthis-animated slideInLeft\" id=\"at4-share\">\n",
+      "   <div class=\"at4-share addthis_32x32_style atss atss-left\" id=\"at4-share\">\n",
       "    <a class=\"at-share-btn at-svc-facebook\" role=\"button\" tabindex=\"0\">\n",
       "     <span class=\"at4-visually-hidden\">\n",
       "      Share to Facebook\n",
@@ -4133,7 +4133,6 @@
       "    </a>\n",
       "    <div class=\"at-custom-sidebar-counter\" style=\"width: 48px; overflow-wrap: break-word;\">\n",
       "     <div class=\"at-custom-sidebar-count\" style=\"color: rgb(34, 34, 34);\">\n",
-      "      559\n",
       "     </div>\n",
       "     <div class=\"at-custom-sidebar-text\" style=\"color: rgb(34, 34, 34);\">\n",
       "      SHARES\n",
@@ -4255,7 +4254,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 32,
+   "execution_count": 9,
    "metadata": {},
    "outputs": [
     {
@@ -4332,7 +4331,7 @@
        " <img alt=\"More\" src=\"/assets/overlay-arrow.png\"/>\n",
        " </div>\n",
        " </div>\n",
-       " <img alt=\"NASA's Perseverance Team Assessing First Mars Sampling Attempt\" class=\"img-lazy\" src=\"/system/news_items/list_view_images/9007_PIA24795_thumbnail.jpg?1630812270544\" style=\"opacity: 1;\"/>\n",
+       " <img alt=\"NASA's Perseverance Team Assessing First Mars Sampling Attempt\" class=\"img-lazy\" src=\"/system/news_items/list_view_images/9007_PIA24795_thumbnail.jpg?1630813533658\" style=\"opacity: 0.843975;\"/>\n",
        " </a>\n",
        " </div>\n",
        " <div class=\"content_title\">\n",
@@ -4352,7 +4351,7 @@
        " <img alt=\"More\" src=\"/assets/overlay-arrow.png\"/>\n",
        " </div>\n",
        " </div>\n",
-       " <img alt=\"NASA Perseverance Mars Rover to Acquire First Sample\" class=\"img-lazy\" src=\"/system/news_items/list_view_images/8995_PIA24746-320x240.jpg?1630812270544\" style=\"opacity: 1;\"/>\n",
+       " <img alt=\"NASA Perseverance Mars Rover to Acquire First Sample\" class=\"img-lazy\" src=\"/system/news_items/list_view_images/8995_PIA24746-320x240.jpg?1630813533658\" style=\"opacity: 0.557775;\"/>\n",
        " </a>\n",
        " </div>\n",
        " <div class=\"content_title\">\n",
@@ -4372,7 +4371,7 @@
        " <img alt=\"More\" src=\"/assets/overlay-arrow.png\"/>\n",
        " </div>\n",
        " </div>\n",
-       " <img alt=\"Study Looks More Closely at Mars' Underground Water Signals\" class=\"img-lazy\" src=\"/system/news_items/list_view_images/8972_cappucino-swirls-thumbnail.jpg?1630812270544\" style=\"opacity: 1;\"/>\n",
+       " <img alt=\"Study Looks More Closely at Mars' Underground Water Signals\" class=\"img-lazy\" src=\"/system/news_items/list_view_images/8972_cappucino-swirls-thumbnail.jpg?1630813533658\" style=\"opacity: 0.557775;\"/>\n",
        " </a>\n",
        " </div>\n",
        " <div class=\"content_title\">\n",
@@ -4452,7 +4451,7 @@
        " <img alt=\"More\" src=\"/assets/overlay-arrow.png\"/>\n",
        " </div>\n",
        " </div>\n",
-       " <img alt=\"NASA's Perseverance Team Assessing First Mars Sampling Attempt\" class=\"img-lazy\" src=\"/system/news_items/list_view_images/9007_PIA24795_thumbnail.jpg?1630812270544\" style=\"opacity: 1;\"/>\n",
+       " <img alt=\"NASA's Perseverance Team Assessing First Mars Sampling Attempt\" class=\"img-lazy\" src=\"/system/news_items/list_view_images/9007_PIA24795_thumbnail.jpg?1630813533659\" style=\"opacity: 0.3759;\"/>\n",
        " </a>\n",
        " </div>\n",
        " <div class=\"content_title\">\n",
@@ -4472,7 +4471,7 @@
        " <img alt=\"More\" src=\"/assets/overlay-arrow.png\"/>\n",
        " </div>\n",
        " </div>\n",
-       " <img alt=\"NASA Perseverance Mars Rover to Acquire First Sample\" class=\"img-lazy\" src=\"/system/news_items/list_view_images/8995_PIA24746-320x240.jpg?1630812270544\" style=\"opacity: 1;\"/>\n",
+       " <img alt=\"NASA Perseverance Mars Rover to Acquire First Sample\" class=\"img-lazy\" src=\"/system/news_items/list_view_images/8995_PIA24746-320x240.jpg?1630813533659\" style=\"opacity: 0.3759;\"/>\n",
        " </a>\n",
        " </div>\n",
        " <div class=\"content_title\">\n",
@@ -4492,7 +4491,7 @@
        " <img alt=\"More\" src=\"/assets/overlay-arrow.png\"/>\n",
        " </div>\n",
        " </div>\n",
-       " <img alt=\"Study Looks More Closely at Mars' Underground Water Signals\" class=\"img-lazy\" src=\"/system/news_items/list_view_images/8972_cappucino-swirls-thumbnail.jpg?1630812270545\" style=\"opacity: 1;\"/>\n",
+       " <img alt=\"Study Looks More Closely at Mars' Underground Water Signals\" class=\"img-lazy\" src=\"/system/news_items/list_view_images/8972_cappucino-swirls-thumbnail.jpg?1630813533659\" style=\"opacity: 0;\"/>\n",
        " </a>\n",
        " </div>\n",
        " <div class=\"content_title\">\n",
@@ -4503,7 +4502,7 @@
        " </div>]"
       ]
      },
-     "execution_count": 32,
+     "execution_count": 9,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -4517,7 +4516,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 43,
+   "execution_count": 10,
    "metadata": {},
    "outputs": [
     {
@@ -4551,7 +4550,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 35,
+   "execution_count": 11,
    "metadata": {},
    "outputs": [
     {
@@ -4572,6 +4571,161 @@
     "print(f\"news_p = {news_p}\")\n",
     "# results = soup.find('div', attrs={'class':'description'}).text"
    ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# MARS FACTS \n",
+    "# URL Path to Mars Facts\n",
+    "url_Mars_Facts = 'https://space-facts.com/mars/'\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Creating Table with Pandas\n",
+    "tables = pd.read_html(url_Mars_Facts)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 15,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#  Mars Data and Putting in DataFrame\n",
+    "df = tables[0]\n",
+    "df = df.rename(columns={1:'Mars', 0:' '})"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 16,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Converting DataFrame to HTML Table String\n",
+    "html_table = df.to_html()\n",
+    "\n",
+    "#Stripping Unwanted Newlines\n",
+    "html_table.replace('\\n', '')\n",
+    "\n",
+    "# Saving to File\n",
+    "df.to_html('mars_table.html')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 17,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Mars Hemispheres\n",
+    "\n",
+    "# URL Path to USGS Astrogeology\n",
+    "URL_USGS_Astrogeology = 'https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars'\n",
+    "browser.visit(URL_USGS_Astrogeology)\n",
+    "\n",
+    "# HTML Object\n",
+    "html = browser.html\n",
+    "\n",
+    "# Parse with Beautiful Soup\n",
+    "soup = BeautifulSoup(html, 'html.parser')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 18,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# URL Path to USGS Home Page\n",
+    "URL_USGS_HomePage = 'https://astrogeology.usgs.gov'\n",
+    "\n",
+    "# Scraping\n",
+    "field_item = soup.find_all('a', class_='itemLink product-item')\n",
+    "\n",
+    "# Creating List of hrefs and Dropping Duplicates\n",
+    "hrefs_list = [item.get('href') for item in field_item]\n",
+    "hrefs_list = list(set(hrefs_list))\n",
+    "\n",
+    "# Creating Dictionary of hemisphere_image_urls\n",
+    "hemisphere_image_urls = []\n",
+    "\n",
+    "\n",
+    "# For Loop Grab the Title and Image Path\n",
+    "for href in hrefs_list:\n",
+    "    # Creating URL for Mars Hemispheres Page\n",
+    "    URL_Hemis = URL_USGS_HomePage + href\n",
+    "    browser.visit(URL_Hemis)\n",
+    "    \n",
+    "    # HTML Object\n",
+    "    html = browser.html\n",
+    "    \n",
+    "    # Parse with Beautiful Soup\n",
+    "    soup = BeautifulSoup(html, 'html.parser')\n",
+    "    \n",
+    "    #Scraping Title\n",
+    "    img_title = soup.find_all('h2', class_='title')\n",
+    "    for t in img_title:\n",
+    "        img_title_clean = t.text.strip()\n",
+    "    \n",
+    "    # Scraping img URL\n",
+    "    img_download_thumb = soup.find('div', class_='downloads')\n",
+    "    img_url = img_download_thumb.find_all('a')[0]['href']\n",
+    "\n",
+    "    # Appending Dictionary to List\n",
+    "    hemisphere_image_urls.append({\"Title\": img_title_clean, \"img_url\": img_url}) "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 19,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Closing Browser\n",
+    "browser.quit()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 21,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'https://astropedia.astrogeology.usgs.gov/download/Mars/Viking/syrtis_major_enhanced.tif/full.jpg'"
+      ]
+     },
+     "execution_count": 21,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "mars_data = {\n",
+    "        \"news_title\": news_title,\n",
+    "        \"news_p\": news_p,\n",
+    "        \"hemisphere_image_urls\": hemisphere_image_urls\n",
+    "    }\n",
+    "\n",
+    "mars_data['hemisphere_image_urls'][0]['img_url']"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
   }
  ],
  "metadata": {
